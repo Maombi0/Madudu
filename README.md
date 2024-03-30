@@ -34,7 +34,7 @@ I regularly share insights, tutorials, and best practices related to data analys
 - Bachelor of Science in Business Management and Work Organazations, Unikin, 2016
 
 ## 💬 Connect with Me
-Feel free to reach out to me via linkedin.com/in/madudu-maombi-madudu for collaboration opportunities, job inquiries, or just to say hello!
+Feel free to reach out to me via [linkedin](https://www.linkedin.com/in/madudu-maombi-madudu/) for collaboration opportunities, job inquiries, or just to say hello!
 
 ## 🤝 Open to Collaboration
 I am eager to collaborate on captivating projects within the realms of data analysis, data science, machine learning, and data visualization. 
