@@ -5,3 +5,8 @@ I'm deeply passionate about harnessing the potential of data to uncover insights
 ## 📊 Current Projects
 Project 1: Classification of TikTok videos
 - Overview: The TikTok data team seeks to develop a machine learning model to assist in the classification of videos as either claims or opinions. Previous investigation into the available data revealed that video engagement levels were highly indicative of claim status. The team is confident that the resulting model will meet all performance requirements.
+- Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, XGBoost
+  
+Project 2: Classification of Waze data
+- Overview: The Waze data team is currently developing a data analytics project aimed at increasing overall growth by preventing monthly user churn on the Waze app. 
+- Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost
