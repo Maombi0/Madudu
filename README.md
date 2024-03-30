@@ -25,7 +25,7 @@ Project 3: Automatidata
 - Tools & Platforms: Jupyter Notebook, Git
 
 ## 📝 Blog & Articles
-I regularly share insights, tutorials, and best practices on data science topics through my blog and contributions to leading publications.
+I regularly share insights, tutorials, and best practices on data science topics through my(https://medium.com/@maombimadudu) and contributions to leading publications.
 
 ## 📚 Educations
 - Advanced Data Analytics Professional Certificate, Google, 2024
