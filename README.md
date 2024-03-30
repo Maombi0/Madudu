@@ -15,8 +15,8 @@ Project 2: Classification of Waze data
 Project 3: Automatidata
 - Overview: New York City Taxi & Limousine Commission has contracted the Automatidata data team to build a machine learning model to predict whether a NYC TLC taxi cab rider will be a generous tipper.  
 - Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost
-
-##🌱 Skills
+  
+## 🌱 Skills
 Programming Languages: Python, R, SQL
 Data Analysis: Pandas, NumPy, SciPy
 Machine Learning: Scikit-learn, TensorFlow, Keras
