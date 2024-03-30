@@ -5,7 +5,7 @@ I'm deeply passionate about harnessing the potential of data to uncover insights
 
 ## 📊 Current Projects
 Project 1: Classification of TikTok videos
-- Overview:TikTok is exploring the application of machine learning to extract claims or propositions from videos and comments on its platform. Leveraging statsmodels and scikit-learn, the goal is to classify each data point as either a claim or opinion. This initiative aims to enhance the triaging process for human review, facilitating more efficient content moderation on TikTok.
+- Overview: TikTok is exploring the application of machine learning to extract claims or propositions from videos and comments on its platform. Leveraging statsmodels and scikit-learn, the goal is to classify each data point as either a claim or opinion. This initiative aims to enhance the triaging process for human review, facilitating more efficient content moderation on TikTok.
 - Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, XGBoost
   
 Project 2: Classification of Waze data
@@ -13,7 +13,7 @@ Project 2: Classification of Waze data
 - Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost
 
 Project 3: Automatidata
-- Overview: New York City Taxi & Limousine Commission has contracted the Automatidata data team to build a machine learning model to predict whether a NYC TLC taxi cab rider will be a generous tipper.  
+- Overview: The New York City Taxi & Limousine Commission (NYC TLC) has engaged the Automatidata data team to develop a machine learning model aimed at predicting whether a rider in a NYC TLC taxi cab will be a generous tipper. This predictive model utilizes multiple regression to forecast taxi fares, serving as a component of a suite of models designed to optimize revenue for the NYC TLC and its drivers.  
 - Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost
   
 ## 🌱 Skills
@@ -40,4 +40,6 @@ Feel free to reach out to me via [linkedin](https://www.linkedin.com/in/madudu-m
 I am eager to collaborate on captivating projects within the realms of data analysis, data science, machine learning, and data visualization. 
 Whether you have an innovative project idea or require assistance with ongoing work, I am readily available to contribute. 
 Don't hesitate to reach out!
+
+## 📊 GitHub Stats
 
