@@ -21,10 +21,11 @@ Project 3: Automatidata
 - Data Analysis: Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, Keras
 - Machine Learning Models: Regression (linear, logistic), Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
 - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau Software
-- Database Management: SQL, MySQL, 
+- Database Management: SQL, MySQL, PostgreSQL
 - Tools & Platforms: Jupyter Notebook, Git
 
 ## 📚 Educations
-- Bachelor of Science in Business Management and Work Organazations, Unikin, 2016
 - Advanced Data Analytics Professional Certificate, Google, 2024
 - Data Analytics Professional Certificate, Google, 2022
+- The Complete SQL Bootcamp: Go from Zero to Hero, Udemy, 2022
+- Bachelor of Science in Business Management and Work Organazations, Unikin, 2016
