@@ -29,3 +29,7 @@ Project 3: Automatidata
 - Data Analytics Professional Certificate, Google, 2022
 - The Complete SQL Bootcamp: Go from Zero to Hero, Udemy, 2022
 - Bachelor of Science in Business Management and Work Organazations, Unikin, 2016
+
+## 🤝 Open to Collaboration
+I am eager to collaborate on captivating projects within the realms of data analysis, data science, machine learning, and data visualization. Whether you have an innovative project idea or require assistance with ongoing work, I am readily available to contribute. Don't hesitate to reach out!
+
