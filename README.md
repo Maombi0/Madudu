@@ -23,3 +23,8 @@ Project 3: Automatidata
 - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau Software
 - Database Management: SQL, MySQL, 
 - Tools & Platforms: Jupyter Notebook, Git
+
+## 📚 Educations
+- Bachelor of Science in Business Management and Work Organazations, Universityof Kinshasa, 2016
+- Advanced Data Analytics Professional Certificate, Google, 2024
+- Data Analytics Professional Certificate, Google, 2022
