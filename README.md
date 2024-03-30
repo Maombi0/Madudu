@@ -25,6 +25,6 @@ Project 3: Automatidata
 - Tools & Platforms: Jupyter Notebook, Git
 
 ## 📚 Educations
-- Bachelor of Science in Business Management and Work Organazations, Universityof Kinshasa, 2016
+- Bachelor of Science in Business Management and Work Organazations, Unikin, 2016
 - Advanced Data Analytics Professional Certificate, Google, 2024
 - Data Analytics Professional Certificate, Google, 2022
