@@ -10,3 +10,8 @@ Project 1: Classification of TikTok videos
 Project 2: Classification of Waze data
 - Overview: The Waze data team is currently developing a data analytics project aimed at increasing overall growth by preventing monthly user churn on the Waze app. 
 - Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost
+
+Project 3: Automatidata
+- Overview: New York City Taxi & Limousine Commission has contracted the Automatidata data team to build a machine learning model to predict whether a NYC TLC taxi cab rider will be a generous tipper.  
+- Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost
+  
