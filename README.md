@@ -17,10 +17,9 @@ Project 3: Automatidata
 - Technologies Used: Python, Scikit-learn, Pandas, NumPy, Matplotlib, XGBoost
   
 ## 🌱 Skills
-Programming Languages: Python, R, SQL
-Data Analysis: Pandas, NumPy, SciPy
-Machine Learning: Scikit-learn, TensorFlow, Keras
-Data Visualization: Matplotlib, Seaborn, Plotly
-Natural Language Processing: NLTK, TextBlob, SpaCy
-Database Management: SQL, SQLite, MySQL
-Tools & Platforms: Jupyter Notebook, Git, Docker, AWS
+- Programming Languages: Python, R, SQL
+- Data Analysis: Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, Keras
+- Machine Learning Models: Regression (linear, logistic), Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
+- Data Visualization: Matplotlib, Seaborn, Plotly, Tableau Software
+- Database Management: SQL, MySQL, 
+- Tools & Platforms: Jupyter Notebook, Git
